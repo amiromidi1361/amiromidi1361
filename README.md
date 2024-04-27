@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amiromidi1361
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning advanced deep learning
+- 🌱 I’m currently uding deep learning in optical communication
 - 💞️ I’m looking to collaborate on data scince projects
 - 📫 How to reach me: omidi.amir@gmail.com
 
